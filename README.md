@@ -1,31 +1,25 @@
-[Entrega de projeto 01 - UTILIZAR UML NA MODELAGEM DE S.pdf](https://github.com/AmarildoSantos1/DiagramUML/files/15468634/Entrega.de.projeto.01.-.UTILIZAR.UML.NA.MODELAGEM.DE.S.pdf)
+# Entrega de projeto 01 - UTILIZAR UML NA MODELAGEM DE S.I
 
+![LogoFacisa](https://blog.unifacisa.edu.br/hubfs/unifacisa-2.png)
 
-![LogoFacisa](![image](https://github.com/AmarildoSantos1/DiagramUML/assets/128610714/fabc231c-0af3-42d4-aa0c-3b2bef165075)
-)
+**Professor:** Bruno Rafael  
+**Grupo:**
+- Amarildo Santos de Lira Junior
+- Breno Barbosa
+- Caio da Silva Mota
+- Luís Vítor Gomes Alves da Silva
+- Pedro Henrique Guedes Braga de Almeida
 
+## Diagramas
 
+### Diagrama de Casos de Uso
+[Ver diagrama](https://lucid.app/lucidchart/2c07625e-cf8f-4c6e-9e2b-c29de1ee111f/edit?invitationId=inv_9344b172-db06-46f3-ac31-d44af82c545d&page=0_0#)
 
+### Diagrama de Sequência
+[Ver diagrama](https://drive.google.com/file/d/1L22Z6dV4kOEdpwAPm46H1jXg3o47dvgg/view?usp=sharing)
 
+### Diagrama de Classe
+[Ver diagrama](https://lucid.app/lucidchart/50bf8a8e-b100-4440-be6b-3d8004b94e8b/edit?invitationId=inv_8d9ab787-6e92-4d14-8531-1cfca605bf80&page=0_0#)
 
-Entrega de projeto 01 - UTILIZAR UML NA MODELAGEM DE S.I
-Professor: Bruno Rafael
-Grupo: Amarildo Santos de Lira Junior 
-Breno Barbosa 
-Caio da Silva Mota
- Luís Vítor Gomes Alves da Silva
-Pedro Henrique Guedes Braga de Almeida
-
-
-
-
-Diagrama de Casos de Uso:
-https://lucid.app/lucidchart/2c07625e-cf8f-4c6e-9e2b-c29de1ee111f/edit?invitationId=inv_9344b172-db06-46f3-ac31-d44af82c545d&page=0_0#
-
-Diagrama de Sequência: https://drive.google.com/file/d/1L22Z6dV4kOEdpwAPm46H1jXg3o47dvgg/view?usp=sharing
-
-Diagrama de Classe:
-https://lucid.app/lucidchart/50bf8a8e-b100-4440-be6b-3d8004b94e8b/edit?invitationId=inv_8d9ab787-6e92-4d14-8531-1cfca605bf80&page=0_0#
-
-Diagrama de Objetos:
-https://lucid.app/lucidchart/0b537577-2d2a-4b82-b588-3866c3b74450/edit?invitationId=inv_3f37ba85-acf5-4ac3-b5df-003cfa2d623c&page=0_0#
+### Diagrama de Objetos
+[Ver diagrama](https://lucid.app/lucidchart/0b537577-2d2a-4b82-b588-3866c3b74450/edit?invitationId=inv_3f37ba85-acf5-4ac3-b5df-003cfa2d623c&page=0_0#)
