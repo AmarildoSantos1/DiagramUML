@@ -23,3 +23,6 @@
 
 ### Diagrama de Objetos
 [Ver diagrama](https://lucid.app/lucidchart/0b537577-2d2a-4b82-b588-3866c3b74450/edit?invitationId=inv_3f37ba85-acf5-4ac3-b5df-003cfa2d623c&page=0_0#)
+
+### Diagrama de Pacotes
+[Ver diagrama](https://lucid.app/lucidchart/45a2a274-f87f-454e-a9e1-6dd2772406ed/edit?beaconFlowId=C0215BF52E38D40B&invitationId=inv_bbd35b86-2fe2-49a6-a826-63de3b40b9e7&page=0_0#)
