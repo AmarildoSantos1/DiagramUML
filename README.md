@@ -26,3 +26,12 @@
 
 ### Diagrama de Pacotes
 [Ver diagrama](https://lucid.app/lucidchart/45a2a274-f87f-454e-a9e1-6dd2772406ed/edit?beaconFlowId=C0215BF52E38D40B&invitationId=inv_bbd35b86-2fe2-49a6-a826-63de3b40b9e7&page=0_0#)
+
+### Diagrama de Componentes
+[Ver diagrama](https://drive.google.com/file/d/175Scd3_rWD7jRW-QiExyrx2BCpzAtFq3/view)
+
+### Diagrama de Atividades
+[Ver diagrama](https://lucid.app/lucidchart/b9f8945f-6ed4-44c5-b41a-cfbe9083b749/edit?invitationId=inv_6426ba45-1814-4a59-a0d8-29d3f5545eac&page=0_0#)
+
+### Diagrama de Máquina de Estados
+[Ver diagrama](https://lucid.app/lucidchart/fff80a14-864a-4533-91ce-a672eb79bc14/edit?beaconFlowId=4307AA465D553223&invitationId=inv_282c8991-3b09-4dfa-81ec-010250da8c8e&page=0_0#)
